@@ -1,7 +1,7 @@
 ```markdown
 # BscTodo — Advanced Task Management
 
-A premium, fully-featured task management application with integrated Pomodoro timer, built entirely with vanilla JavaScript. No frameworks, no dependencies — just open and use.
+A fully-featured task management application with integrated Pomodoro timer, built entirely with vanilla JavaScript. No frameworks, no dependencies — just open and use.
 
 ## Quick Start
 
@@ -78,7 +78,7 @@ All data is stored locally in your browser's `localStorage`. Your tasks, categor
 ## File Structure
 
 ```
-bsctodo/
+bsctodo-main/
 ├── index.html   → Complete application (HTML + CSS + JS)
 └── README.md    → Documentation
 ```
