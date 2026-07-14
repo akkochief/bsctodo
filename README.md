@@ -153,10 +153,4 @@ You can modify the following in the code:
 
 MIT License — Free for personal and commercial use.
 
-## Credits
 
-- Font: [Outfit](https://fonts.google.com/specimen/Outfit) by On Brand
-- Font: [JetBrains Mono](https://fonts.google.com/specimen/JetBrains+Mono) by JetBrains
-- Icons: [Font Awesome](https://fontawesome.com) by Fonticons
-
----
